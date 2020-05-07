@@ -3,7 +3,7 @@ _simply test task manages_
 
 Note: I decided to use "Promises" to simulate a realistic situation.
 
-Basically, `reduce` within `getProcessingPage` will solve the task sequentially and based on the output (`resolve()` or `reject()`) the queue will proceed or will be interrupted.
+Basically, `reduce` within `getProcessingPage` will solve the tasks sequentially and based on the output (`resolve()` or `reject()`) the queue will proceed or will be interrupted.
 
 To start the function, simply pass an array of states to the `getProcessingPage` function.
 
