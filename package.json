@@ -1,0 +1,20 @@
+{
+  "name": "queue-manager",
+  "version": "1.0.0",
+  "description": "_simply test task manages_",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeniosegala/queue-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugeniosegala/queue-manager/issues"
+  },
+  "homepage": "https://github.com/eugeniosegala/queue-manager#readme"
+}
