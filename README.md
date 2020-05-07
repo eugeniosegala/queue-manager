@@ -14,7 +14,7 @@ Although not necessary, I logged the "processing" state and I passed multiple st
 var tasks = [
   { state: 'processing' },
   { state: 'error', errorCode: 'NO_STOCK' },
-  { state: 'success' },
+  { state: 'success' }, // example
 ];
 
 getProcessingPage(tasks);
