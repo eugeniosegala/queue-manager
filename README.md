@@ -11,7 +11,7 @@ Although not necessary, I logged the "processing" state and I passed multiple st
 
 ```
 // states example
-var tasks = [
+const tasks = [
   { state: 'processing' },
   { state: 'error', errorCode: 'NO_STOCK' },
   { state: 'success' }, // example
