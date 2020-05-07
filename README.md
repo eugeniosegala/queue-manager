@@ -22,4 +22,4 @@ getProcessingPage(tasks);
 
 **How to run it locally:** `node app.js`
 <br>
-**JS Bin:** https://jsbin.com/wunosaveki/1/edit?js,console,output
+**JS Bin:** https://jsbin.com/kaviyuribe/edit?js,console,output
