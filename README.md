@@ -1,5 +1,5 @@
 # queue-manager
-_simply test task manages_
+_simply test task manager_
 
 Note: I decided to use "Promises" to simulate a realistic situation.
 
