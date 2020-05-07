@@ -32,7 +32,7 @@ const getProcessingPage = (data) => {
 const tasks = [
   { state: 'processing' },
   { state: 'error', errorCode: 'NO_STOCK' },
-  { state: 'success' },
+  { state: 'success' }, // example
 ];
 
 getProcessingPage(tasks);
