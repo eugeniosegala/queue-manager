@@ -14,7 +14,7 @@ Although not necessary, I logged the "processing" state and I passed multiple st
 const tasks = [
   { state: 'processing' },
   { state: 'error', errorCode: 'NO_STOCK' },
-  { state: 'success' }, // example
+  { state: 'success' }, // not executed if rejected 
 ];
 
 getProcessingPage(tasks);
